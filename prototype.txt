@@ -1,0 +1,19 @@
+get the length of string
+
+calculate the square root
+
+if the square root is not a integer number then
+	verify wich is the interval integers 
+	calculate the floor x ceil, if this is bigger or equal then
+		length of string then
+		build a matrix follow the floor x ceil
+	otherwise 
+		use the number as floor and ceil 
+otherwise
+	use the number as floor and ceil 
+
+
+go through the string setting each one 
+in the matrix
+
+finally go through each column/row concating a main string
